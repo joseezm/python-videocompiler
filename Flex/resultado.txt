@@ -1,0 +1,51 @@
+\begin{tabular}{|c|p{3cm}|p{8cm}|p{2cm}|} \hline
+\textsc{Carlos EAT} &
+1 &
+  Feliz cumpleaños Edward! &
+\begin{tabular}{c}
+	\footnotesize{9/9/2020} \\ 
+	\Large{\textbf{5:57}} \\ 
+	p. m.
+\end{tabular} \\ 
+\hline
+\end{tabular}
+
+
+\begin{tabular}{|c|p{3cm}|p{8cm}|p{2cm}|} \hline
+\textsc{Edward H} &
+2 &
+  Hola Carlos, muchas gracias =D &
+\begin{tabular}{c}
+	\footnotesize{9/9/2020} \\ 
+	\Large{\textbf{6:55}} \\ 
+	p. m.
+\end{tabular} \\ 
+\hline
+\end{tabular}
+
+
+\begin{tabular}{|c|p{3cm}|p{8cm}|p{2cm}|} \hline
+\textsc{Carlos EAT} &
+3 &
+  Espero que la pases bien &
+\begin{tabular}{c}
+	\footnotesize{9/9/2020} \\ 
+	\Large{\textbf{6:57}} \\ 
+	p. m.
+\end{tabular} \\ 
+\hline
+\end{tabular}
+
+
+\begin{tabular}{|c|p{3cm}|p{8cm}|p{2cm}|} \hline
+\textsc{Edward H} &
+4 &
+  Si mi esposa hizo una torta de chocolate, saludos &
+\begin{tabular}{c}
+	\footnotesize{9/9/2020} \\ 
+	\Large{\textbf{10:02}} \\ 
+	p. m.
+\end{tabular} \\ 
+\hline
+\end{tabular}
+
